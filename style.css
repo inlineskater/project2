@@ -1,0 +1,117 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+
+h1{
+    font-size: xxx-large;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#onlyphoto{
+    height: 380px;
+    border-radius: 25px;
+    margin: 0px 20px 20px 0px;
+}
+
+body{
+    /* background-color: #f1f1f1; */
+    background-color: white;
+    color: #0f141e;
+    font: normal 18px 'Roboto', sans-serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: cadetblue;
+}
+
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg_orange{
+    background-color: #f59f7e;
+}
+
+.bg_green{
+    background-color: #a8d3ab;
+}
+
+.bg_red{
+    background-color: #ac6e81;
+}
+
+.bg_sandy{
+    background-color: #e2aa35;
+}
+
+.bg_blue{
+    background-color: lightskyblue;
+}
+
+.card h2{
+    margin-bottom: 10px;
+}
+
+.list{
+    padding: 0px;
+    list-style: none;
+}
+
+.list li{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+    
+}
+
+.table{
+    width: 100%;
+}
+
+.table td{
+    padding-bottom: 10px;
+}
+
+.table td:nth-child(2){
+    width: 80%;
+}
+
+
+.top_part{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.bottom_part{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.education{
+    max-width: 66.66%;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
